@@ -139,11 +139,7 @@ def main():
     #list_of_scan_headers.append(HN2,Count2])
 
     #REPORT FOR TCP THEN UDP
-    
-    list_of_headers.append(["TCP"])
-
-    list_of_headers.append(["UDP"])
-    
+  
     #Append to list_of_all([Ti,Pi,IP])	
 
     #Probe list is blank at first
